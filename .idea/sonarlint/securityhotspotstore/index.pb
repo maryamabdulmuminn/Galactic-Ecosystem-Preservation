@@ -11,3 +11,5 @@ P
  tests/species-relocation.test.ts,9/9/994ee371e27a75491a9be5999f73e5ddcef4c36c
 V
 &contracts/terraforming-initiative.clar,5/c/5ce03ef8f42328e011c675767c4487e05ef065c4
+U
+%tests/terraforming-initiative.test.ts,2/a/2a0679f8e2acc86488e2add717ec26fe89683386
