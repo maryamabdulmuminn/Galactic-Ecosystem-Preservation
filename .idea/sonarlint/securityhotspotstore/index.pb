@@ -7,3 +7,7 @@ R
 "tests/conservation-project.test.ts,7/7/776d539dab4f890a97c7f4c0c3bde9d82c0b2d07
 Q
 !contracts/species-relocation.clar,0/7/07b1155e9f2223b560ac2e49b68bf3c5e3ffe3f3
+P
+ tests/species-relocation.test.ts,9/9/994ee371e27a75491a9be5999f73e5ddcef4c36c
+V
+&contracts/terraforming-initiative.clar,5/c/5ce03ef8f42328e011c675767c4487e05ef065c4
